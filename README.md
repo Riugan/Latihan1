@@ -1,3 +1,5 @@
-saya adalah web developer
-saya adalah heker white
-saya adalah kampus nya
+<ul>
+<li>saya adalah web developer</li>
+<li>saya adalah heker white</li>
+<li>saya adalah kampus nya</li>
+</ul>
